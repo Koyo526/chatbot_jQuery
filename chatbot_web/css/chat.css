@@ -35,7 +35,7 @@ h1 {
     background-color: #aaaaaa;
     padding: 10px;
     /* Lv.2:➂urlに背景画像までのパスを指定しよう */
-    background-image: url('/chatbot_web/image/background.jpg');
+    background-image: url('../image/background.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
